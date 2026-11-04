@@ -1,0 +1,13 @@
+{
+  "name": "ECUMarket · 100% originales",
+  "short_name": "ECUMarket",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E7E5E1",
+  "theme_color": "#E7E5E1",
+  "icons": [
+    { "src": "iconos/web-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "iconos/web-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
